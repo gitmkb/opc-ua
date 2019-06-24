@@ -1,3 +1,4 @@
+# Client program 
 from opcua import Client
 import time
 
